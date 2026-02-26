@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "theme":{
+
+  },
+  "home": {
+    "layout": "grid",
+    "crossAxisCount": 3,
+    "aspectRatio": 1.2,
+    "spacing": 8,
+    "showBanner": true
+  },
+  "features": {
+    "enableNewCheckout": false
+  },
+  "app": {
+    "minVersion": 5,
+    "maintenance": false
+  }
+}
