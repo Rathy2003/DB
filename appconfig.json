@@ -8,8 +8,13 @@
       "title":"ល្អមើល"
     }
   },
-  "features": {
-    "enableNewCheckout": false
+  "see_all_screen":{
+    "grid":{
+      "crossAxisCount":3,
+      "crossAxisSpacing": 10,
+      "mainAxisSpacing": 10,
+      "childAspectRatio": 0.7
+    }
   },
   "app": {
     "minVersion": 5,
