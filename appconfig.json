@@ -4,11 +4,9 @@
 
   },
   "home": {
-    "layout": "grid",
-    "crossAxisCount": 3,
-    "aspectRatio": 1.2,
-    "spacing": 8,
-    "showBanner": true
+    "appbar":{
+      "title":"LAOR MERL"
+    }
   },
   "features": {
     "enableNewCheckout": false
